@@ -1,5 +1,5 @@
 # learning
-this is my first repository
+This Is My First Repository
 <br>
 Author-Chetan Rohit
 
